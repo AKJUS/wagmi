@@ -48,8 +48,8 @@
     "@types/bun": "^1.1.10",
     "@vitest/coverage-v8": "^2.1.1",
     "@wagmi/test": "workspace:*",
-    "bun": "^1.1.29",
-    "happy-dom": "^15.7.4",
+    "bun": "^1.1.30",
+    "happy-dom": "^15.10.2",
     "knip": "^5.30.6",
     "prool": "^0.0.23",
     "publint": "^0.2.11",
@@ -57,7 +57,7 @@
     "simple-git-hooks": "^2.11.1",
     "typescript": "5.8.3",
     "viem": "2.29.2",
-    "vitest": "^2.1.1"
+    "vitest": "^2.1.9"
   },
   "packageManager": "pnpm@9.11.0",
   "pnpm": {
